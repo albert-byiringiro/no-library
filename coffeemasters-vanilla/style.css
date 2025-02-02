@@ -20,3 +20,9 @@ body>header {
     width: 100%;
     top: 0;
 }
+
+body>main {
+    margin: auto;
+    margin-top: 60px;
+    max-width: 500px;
+}
