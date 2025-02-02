@@ -8,3 +8,9 @@
     --color6: #ede0d4;
     --highlight: #fbf2c6;
 }
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
