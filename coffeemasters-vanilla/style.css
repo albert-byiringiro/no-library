@@ -54,3 +54,7 @@ a.navlink {
     top: 5px;
     right: 5px;
 }
+
+section.page {
+    display: none;
+}
