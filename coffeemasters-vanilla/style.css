@@ -41,3 +41,9 @@ ul {
     display: none;
     padding: 0;
 }
+
+a.navlink {
+    color: var(--highlight);
+    padding: 8px;
+    text-decoration: none;
+}
